@@ -51,9 +51,10 @@ Summary of what happened (topics covered) in classes this week could go here
 | 9:30 am - 10:25 am  | CS 339 (LH 101) | CS 348 (LA 001) |                 |                 |                |
 | 10:35 am - 11:30 am |                 | CS 339 (LH 101) |                 | CS 348 (LA 001) |                |
 | 11:35 am - 12:30 pm |                 |                 |                 | CS 339 (LH 101) |                |
-| 9:35 am - 11:00 am  |                 |                 | Minor           |                 | Minor          |
-| 11:05 am - 12:30 pm |                 |                 |                 |                 |                |
+| 9:35 am - 11:00 am  |                 |                 | CS 405 (LA 001) |                 | CS 405 (LA001) |
+| 11:05 am - 12:30 pm |                 |                 | DE 338 (LC 301) |                 | DE 338 (LC301) |
 | 2:00 pm - 4:55 pm   | CS 355 (CC)     |                 |                 | CS 378 (CC)     |                |
+| 5:30 pm - 7:00 pm   | CS 6003 (CC105) | CS 663 (LA 001) |                 | CS 6003 (CC105) | CS 663 (LA001) |
 
 # Course Policies
 
