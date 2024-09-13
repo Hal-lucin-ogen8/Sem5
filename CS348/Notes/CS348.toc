@@ -39,3 +39,19 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Frequency and time}{25}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Issues with Central Coordinator}{26}{subsubsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.2}No central coordinator}{26}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Carrier sense Multiple Access (CSMA)}{27}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Collision Detection}{27}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Random Wait time}{28}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Flowchart to represent CSMA}{28}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Limits on frame size}{29}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Format of an ethernet frame}{30}{subsubsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.3}MAC in Wifi}{30}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Virtual Carrier Sensing}{31}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Modulation in WiFi}{32}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Exposed Terminal problem}{32}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}DIFS and SIFS}{33}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Contention Window}{33}{subsubsection.3.3.5}%
+\contentsline {section}{\numberline {4}Ethernet Switching}{34}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Automatic MAC address maintanence}{35}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Loops in the network}{35}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Spanning tree protocol}{36}{subsubsection.4.2.1}%
